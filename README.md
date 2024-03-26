@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syiema</h1>
 <h3 align="center">A passionate developer</h3>
 
-<h3 align="left">Connect with me:**norsyahima.azizi@gmail.com** </h3>
+- 📫 How to reach me **norsyahima.azizi@gmail.com**
 <p align="left">
 </p>
 
